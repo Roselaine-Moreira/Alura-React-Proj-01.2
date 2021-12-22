@@ -1,7 +1,7 @@
-# Alura-React-Proj-01
-1-Entendendo como a biblioteca funciona.\
+# Alura-React-Proj-01.2
+1.2-2-Entendendo como funciona o ciclo de vida dos componentes.\
 Este projeto é um bloco de notas;\
-O primeiro projeto em React dos cursos da Alura;\
+Continuação do primeiro projeto em React dos cursos da Alura;\
 Ele é bem básico pois foi construído para aprendizagem.
 
 ## Para executá-lo:
